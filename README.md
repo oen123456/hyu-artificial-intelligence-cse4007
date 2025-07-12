@@ -14,6 +14,7 @@ Hanyang University CSE4007(Artificial Intelligence) 수업 자료 저장소입�
 ---
 
 ## 디렉터리 구조
+**실제 폴더 채우고 나주엥 지피티한테다시 짜달라고 하기**
 ```text
 $ tree -L 2
 .
