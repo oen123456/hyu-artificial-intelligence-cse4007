@@ -1,0 +1,16 @@
+2024 인공지능 중간- 50 %는 RNN에서 50%은
+object detection
+1.리콜 프리시전. Malicious program detecting. 70%, 80%리콜, 프리시전의 의미, 여 기선 뭐가 더 나은지
+a. 80% recall b.70%precision c 둘중 우선시되 는 것 적기
+2.fine-tuning. E-,pro con
+3.nms 쓰는 이유, 리콜 프리시전에 미치는 영향,
+nms pseudo code
+4.single-stage detector main problem,
+solution 단점과 보완할 방법
+5.backbone used for obj detector. 05, 7E
+과 각각 요소거 필요한 이유
+6. rnn training 문제점 & 수식으로 해당 문제 왜 발생하는지
+7. Istm - resnet 같은 점, Istm 수식 Istm이 state update 과정 기술
+8. self-attention with dim, size
+single head self attention순서 적기
+embedding vector x1,x2 주어지고 d가 512일 때 필요하면 d 적기
